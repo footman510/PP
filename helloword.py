@@ -6,4 +6,4 @@ while True:
  if len(s)<3:
   continue
  print'the length of the string is',len(s)
-print 'done'
+print 'do'
